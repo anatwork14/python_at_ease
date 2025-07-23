@@ -19,11 +19,6 @@ This repository contains a structured, beginner-friendly 20-day curriculum to te
 - Matplotlib/Seaborn for Data Visualization
 - Real-world mini projects
 
-## 📦 Files
-
-- `Python_CS_20Day_Learning_Plan.csv` – Daily plan with topics & exercises
-- `Python_CS_20Day_Learning_Plan_With_Solutions.csv` – Plan with solution hints
-
 ## 💡 After This Course
 
 Upon completing the 20-day plan, learners will be ready to:
